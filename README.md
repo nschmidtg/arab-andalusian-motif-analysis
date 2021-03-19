@@ -13,4 +13,6 @@ pip install -r requirements.txt
 python setup.py install
 ```
 
+### Paper in PDF could be found under the name Melodic_Pattern_Recognition_on_Arab_Andalusian_Al_rasd_t_b.pdf
+
 This work was based on the MTG repository: https://github.com/MTG/andalusian-corpus-notebooks

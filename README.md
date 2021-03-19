@@ -12,3 +12,5 @@ pip install -e .
 pip install -r requirements.txt
 python setup.py install
 ```
+
+This work was based on the MTG repository: https://github.com/MTG/andalusian-corpus-notebooks
